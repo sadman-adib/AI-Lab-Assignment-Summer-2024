@@ -1,0 +1,6 @@
+k  train_set (val_set,accuracy)
+
+5  93%
+10 95%
+15 95%
+20 96%
